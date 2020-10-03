@@ -1,4 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
+console.log("natalie ist")
 
 //card options
 const cardArray = [
